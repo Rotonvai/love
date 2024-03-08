@@ -1,0 +1,10 @@
+from turtle import *
+bgcolor("black")
+color( "red" )
+left(50)
+forward(190)
+circle(80,180)
+left(260)
+circle(80,180)
+forward(190)
+done()
